@@ -1,9 +1,12 @@
 # Hi there, I'm Darren!
 
-<!-- VISITOR COUNTER -->
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://komarev.com" alt="Visitor Counter" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Languages" height="150" />
 </p>
+
 
 ## About Me
 I am a developer passionate about building applications and exploring new technologies. Welcome to my GitHub profile!
