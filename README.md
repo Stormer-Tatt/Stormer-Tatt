@@ -1,13 +1,5 @@
 # Hi there, I'm Darren!
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://lecoq.io" alt="GitHub Metrics" width="100%" />
-</p>
-
-
-
 ## About Me
 I am a developer passionate about building applications and exploring new technologies. Welcome to my GitHub profile!
 
@@ -37,10 +29,3 @@ I am a developer passionate about building applications and exploring new techno
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
