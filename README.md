@@ -16,6 +16,8 @@ I am a developer passionate about building applications and exploring new techno
 
 ---
 
+![Wallpaper](https://i.pinimg.com/vwebpf/736x/ac/28/89/ac28890997f3968bd497cb3c3d1528bc.webp)
+
 ## 🌐 Find Me Online
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
