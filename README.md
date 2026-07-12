@@ -16,7 +16,7 @@ I am a developer passionate about building applications and exploring new techno
 
 ---
 
-![Wallpaper]([https://i.pinimg.com/vwebpf/736x/ac/28/89/ac28890997f3968bd497cb3c3d1528bc.webp](https://i.pinimg.com/736x/94/9f/d7/949fd7356c99f3d31e6f095096d04eab.jpg))
+![Wallpaper](https://i.pinimg.com/736x/94/9f/d7/949fd7356c99f3d31e6f095096d04eab.jpg)
 
 ## 🌐 Find Me Online
 
